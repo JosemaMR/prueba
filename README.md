@@ -15,3 +15,6 @@ En GitHub podemos hacer muchas cosas como:
 + Seguir y administrar los cambios en el código a lo largo del tiempo.
 + Dejar que otros usuarios revisen el código y realicen sugerencias para mejorarlo.
 + Colaborar en un proyecto compartido, sin preocuparse de que los cambios afectarán al trabajo de los colaboradores antes de que esté listo para integrarlos.
+
+
+![Mi grafico](SVG.svg)
