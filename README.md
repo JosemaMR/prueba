@@ -17,8 +17,6 @@ En GitHub podemos hacer muchas cosas como:
 + Colaborar en un proyecto compartido, sin preocuparse de que los cambios afectarán al trabajo de los colaboradores antes de que esté listo para integrarlos.
 
 
-![Mi grafico](SVG.svg)
-
 
 <svg height="320" width="500" xmlns="http://www.w3.org/2000/svg">
   <polygon points="10,100 10,190 150,190 50,100"
