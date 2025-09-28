@@ -5,6 +5,7 @@ Mi primer Readme en GitHub
 
 ## Imagen
 Este es OctoCat, la mascota de GitHub. Es mitad gato y mitad pulpo.
+
 <img src="Fintechtocat.png" width="300" height="300">
 
 ## This'll be a _Helpful_ Section About the Greek Letter Θ!
