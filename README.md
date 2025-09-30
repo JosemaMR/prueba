@@ -18,17 +18,11 @@ En GitHub podemos hacer muchas cosas como:
 
 ## Gráfico 
 
-<html>
-<head>
-  <meta charset="UTF-8">
-</head>
-<body>
+
 <svg height="320" width="500" xmlns="http://www.w3.org/2000/svg">
   <polygon points="10,190 150,190 50,100"
            style="fill:brown;stroke:orange;stroke-width:6" />
 </svg>
-</body>
-</html>
 
 
 ## Tabla
